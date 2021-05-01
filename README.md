@@ -6,7 +6,7 @@
 
 [![Tech Blog Badge](http://img.shields.io/badge/-blog-black?style=flat-square&logo=github&link=https://jongminfire.dev)](https://jongminfire.dev) &nbsp; [![Gmail Badge](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jongminfire)](mailto:jongminfire@gmail.com) &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjongminfire&count_bg=%231F1F1F&title_bg=%23030303&icon=&icon_color=%23E7E7E7&title=%3Chits%2F%3E&edge_flat=false)](https://github.com/jongminfire) 
 
-### `FRONTEND DEVELOPER`
+### `FRONT-END DEVELOPER`
 
 #### React &nbsp; JavaScript &nbsp; p5js &nbsp;
 
