@@ -10,7 +10,7 @@
 
 | `FRONT-END DEVELOPER`                     | <small>Now I'm Listening 🎧</small>                                          |
 | :------------------------- | :------------------------------------------------------------: |
-| - React <br/>- JavaScript <br/>- p5js | [<img src="https://jongminfire.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/xs27yhu8lzl8wuxuqsav0fj4g) |
+| - React <br/>- JavaScript <br/>- TypeScript | [<img src="https://jongminfire.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/xs27yhu8lzl8wuxuqsav0fj4g) |
 
 <br/>
 
