@@ -10,8 +10,8 @@
 
 | `FRONT-END DEVELOPER`                     | <small>Now I'm Listening 🎧</small>                                          |
 | :------------------------- | :------------------------------------------------------------: |
-| - React <br/>- JavaScript <br/>- TypeScript | [<img src="https://jongminfire.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/xs27yhu8lzl8wuxuqsav0fj4g) |
-
+| <div align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" width=71> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" width=104> <br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" width=107> <img src="https://img.shields.io/badge/P5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=white" width="68"> <br/><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white" width=67> <img src="https://img.shields.io/badge/Apollo Client-311C87?style=for-the-badge&logo=Apollo GraphQL&logoColor=white" width="108"><br/> | [<img src="https://jongminfire.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" /></div>](https://open.spotify.com/user/xs27yhu8lzl8wuxuqsav0fj4g) |
+  
 <br/>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&fontSize=30&height=80&color=171717)
